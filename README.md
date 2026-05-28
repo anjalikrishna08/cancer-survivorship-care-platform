@@ -72,7 +72,7 @@ npm run dev
 
 ### Backend Setup
 ```bash
-cd backend
+cd oncana-backend
 
 # Create virtual environment
 python -m venv venv
@@ -116,7 +116,7 @@ oncana/
 ├── styles/               # Global styles
 ├── lib/                  # Utility functions
 ├── hooks/                # Custom React hooks
-└── backend/              # FastAPI backend + ML model
+└── oncana-backend/              # FastAPI backend + ML model
 ```
 
 ---
