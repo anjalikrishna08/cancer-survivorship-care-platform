@@ -137,7 +137,7 @@ oncana/
 
 **Anjali Krishna**
 - 🎓 Master of Data Analytics (Statistical Data Science) — QUT, 2025
-- 💼 [LinkedIn](https://linkedin.com/in/anjalikrishna)
+- 💼 [LinkedIn](https://linkedin.com/in/anjkrishna11)
 - 🐙 [GitHub](https://github.com/anjalikrishna08)
 
 ---
