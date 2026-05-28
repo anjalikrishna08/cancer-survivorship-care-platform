@@ -94,12 +94,12 @@ export default function Home() {
 
             <TestimonialCard
               quote="The chatbot became my midnight companion when anxiety struck. Having 24/7 support made a world of difference in my emotional recovery."
-              author="James L., Prostate Cancer Survivor"
+              author="James L., Skin Cancer Survivor"
             />
 
             <TestimonialCard
               quote="I appreciate how the system adapts to my changing needs. As I progress in my recovery, the recommendations evolve with me."
-              author="Elena K., Lymphoma Survivor"
+              author="Elena K., Lung Cancer Survivor"
             />
           </div>
         </div>
