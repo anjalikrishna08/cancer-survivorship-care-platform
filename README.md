@@ -70,20 +70,7 @@ npm install
 npm run dev
 ```
 
-### Backend Setup
-```bash
-cd oncana-backend
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start the FastAPI server
-uvicorn main:app --reload
-```
 
 ### Environment Variables
 Create a `.env.local` file in the root directory:
@@ -105,21 +92,15 @@ The XGBoost classifier was trained on symptom and wellbeing survey responses to 
 
 ---
 
-## 📁 Project Structure
-
-```
 oncana/
 ├── app/                  # Next.js app directory
 ├── components/           # Reusable React components
-├── prisma/               # Database schema and migrations
+├── prisma/               # Database schema (Prisma ORM)
 ├── public/               # Static assets
 ├── styles/               # Global styles
 ├── lib/                  # Utility functions
-├── hooks/                # Custom React hooks
-└── oncana-backend/              # FastAPI backend + ML model
-```
+└── hooks/                # Custom React hooks
 
----
 
 ## 📄 Documentation
 
